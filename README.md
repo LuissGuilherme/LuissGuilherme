@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Meu nome é Luís Guilherme</h1>
 <h3 align="center">Amo tecnologia e gosto de jogos.</h3>
 
-- 🌱 Estou aprendendo **SQL, C, Java Script**
+- 🌱 Estou aprendendo **SQL, C, C++ e Java Script**
 
 - 📫 Como me contatar **luissguilherme@sempreceub.com**
 
